@@ -9,12 +9,12 @@ The final outcome includes a comprehensive Incident Response Playbook, evidence 
 
 ⚡ Key Highlights:
 
-Incident Response Team (IRT) setup and role definition.
+1.Incident Response Team (IRT) setup and role definition.
 
-Incident simulation with forensic evidence collection.
+2.Incident simulation with forensic evidence collection.
 
-Root cause analysis and recovery planning.
+3.Root cause analysis and recovery planning.
 
-Development of IR playbook, reports, and presentations.
+4.Development of IR playbook, reports, and presentations.
 
-Hands-on approach to real-world incident handling scenarios.
+5.Hands-on approach to real-world incident handling scenarios.
