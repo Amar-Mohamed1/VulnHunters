@@ -1,5 +1,4 @@
 # VulnHunters
-The Incident Response and Digital Forensics Playbook project simulates the full incident response lifecycle. It covers preparation, simulation of attacks (phishing, ransomware), evidence collection, root cause analysis, containment, recovery, and post-incident reporting. Final deliverables include an IR playbook, reports, and lessons learned.
 Project Description
 
 The Incident Response and Digital Forensics Playbook project focuses on building and simulating the complete incident response lifecycle. It is designed to provide practical experience in handling cyber incidents through structured phases: preparation, detection, analysis, containment, eradication, recovery, and post-incident activities.
